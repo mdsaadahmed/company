@@ -1,9 +1,9 @@
 body{
-background-color:gold;
+background-color:#5bbec7;
 }
 .continer{
 margin-top:25px;
-background-color: aqua;
+background-color: #60f6f1;
 border: solid gold;
 width: 1350px;
 font-size: 18px;
@@ -22,14 +22,14 @@ text-align:center;
 font-size: 64px;
 }
 .sideber-left{
-background-color: antiquewhite;
+background-color: Gray;
 width: 291px;
 border: 2 px solid black;
 float: left;
 text-align:center;
 }
 .contantnt{
-background-color: blue;
+background-color: black;
 width: 750px;
 float: left;
 text-align:center;
@@ -50,7 +50,7 @@ text-align:center;
 }
 
 .menu{
-background-color: violet;
+background-color: #533076;
 height: 50px;
 }
 .menu ul{
@@ -61,12 +61,12 @@ display: inline-flex;
 
 }
 .menu ul li a{
-background: linear-gradient(blue,#EDF2D3);
+background: linear-gradient(#c43474,#EDF2D3);
 color: white;
 text-decoration: none;
 margin: auto;
 margin-right: 5px;
-padding: 10px 50px;
+padding: 8px ;
 }
 .menu ul li a:hover{
 background: linear-gradient(red,green) !important;
@@ -75,8 +75,8 @@ background: linear-gradient(red,green) !important;
 float: left;
 }
 .site_name{
-font-style: inherit;
-background-color: #43bb4e;
+font-style: Rockwell;
+background-color:#57c132;
 }
 .social_menu{
 
